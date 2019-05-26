@@ -13,13 +13,13 @@ if __name__ == '__main__':
     """
     # settings.py
     STORE = 'store.dog.Dog'
-    # python store_test.py
+    # python test.py
     dog is eat meat
     dog is running    
 
     # settings.py
     STORE = 'store.cat.Cat'
-    # python store_test.py
+    # python test.py
     cat is eat meat
     cat is running
     """
